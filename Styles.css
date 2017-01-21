@@ -1,0 +1,29 @@
+body {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+Try it Yourself »
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: hotpink;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
